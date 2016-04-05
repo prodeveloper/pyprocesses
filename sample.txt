@@ -1,0 +1,2 @@
+business.process1:Process1
+business.process2:Process2
